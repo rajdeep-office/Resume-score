@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f9f9f9;
+  text-align: center;
+  margin: 40px;
+}
+
+#pdf-input {
+  margin: 20px 0;
+}
+
+#score-btn {
+  padding: 10px 28px;
+  font-size: 1rem;
+}
+
+#results {
+  margin-top: 30px;
+  background: #fff;
+  display: inline-block;
+  padding: 20px 30px;
+  border-radius: 6px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  min-width: 280px;
+  text-align: left;
+}
